@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.andriitab.fworship",
+    "sha256_cert_fingerprints": ["D7:CE:D0:E7:42:0F:2F:E6:6B:D2:04:79:E0:91:ED:05:AF:9C:61:B5:A6:85:9B:58:07:EB:11:3E:D3:B4:DF:2F"]
+  }
+}]
